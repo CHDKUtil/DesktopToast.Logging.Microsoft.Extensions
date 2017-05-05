@@ -2,12 +2,6 @@
 
 Currently only works with the Desktop Toast [fork](https://github.com/CHDKUtil/DesktopToast).
 
-## Installation
-
-```PowerShell
-Install-Package UsbEject.Logging.Microsoft.Extensions -Pre
-```
-
 ## Usage
 
 ```C#
