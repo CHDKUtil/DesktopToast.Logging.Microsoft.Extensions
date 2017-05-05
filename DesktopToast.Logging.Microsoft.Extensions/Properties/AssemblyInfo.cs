@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Dmitry Shechtman")]
-[assembly: AssemblyProduct("DesktopToast.Logging.Microsoft.Extensions")]
+[assembly: AssemblyProduct("DesktopToast")]
 [assembly: AssemblyCopyright("Copyright © 2017 Dmitry Shechtman")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
