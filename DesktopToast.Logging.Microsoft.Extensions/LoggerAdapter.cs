@@ -6,7 +6,7 @@ namespace DesktopToast.Logging.Microsoft.Extensions
 	/// Desktop Toast Microsoft.Extensions.Logging Adapter
 	/// </summary>
 	public class LoggerAdapter : ILogger
-    {
+	{
 		private global::Microsoft.Extensions.Logging.ILogger Logger { get; }
 
 		/// <summary>
