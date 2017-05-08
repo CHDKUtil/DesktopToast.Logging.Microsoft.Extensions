@@ -15,7 +15,7 @@ namespace DesktopToast.Logging.Microsoft.Extensions
 		/// <param name="loggerFactory">Logger factory.</param>
 		public LoggerAdapter(ILoggerFactory loggerFactory)
 		{
-			Logger = loggerFactory.CreateLogger<ToastManager>();
+			Logger = loggerFactory.CreateLogger("DesktopToast");
 		}
 
 		/// <inheritdoc/>
